@@ -1,0 +1,60 @@
+#hero{
+    background-color: #FFF5E0;
+}
+body{
+    font-family: "Nunito Sans", sans-serif;
+    color: #141E46;
+}
+#skills{
+    background-color: #e7e8e7;
+}
+.carousel-item img {
+    height: 720px;
+    object-fit: contain;
+    margin: 0 auto; 
+    width: auto; 
+  }
+.carousel-item video {
+    height: 720px;
+    margin: 0 auto; 
+    width: auto; 
+}
+#projects{
+    height: 720px;
+    background-color: #e7e8e7;
+}
+#projects p{
+    font-size: x-large;
+}
+#hobbies{
+    background-color: #e7e8e7;
+}
+#hobbies > div{
+    border-color: black;
+}
+.carousel-item{
+    text-shadow: 
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000; /* czarne kontury z każdej strony tekstu */
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+   background-color: #141E46;
+}
+#skills button{
+    background-color: #8DECB4;
+    border-color: #8DECB4;
+}
+li{
+    list-style: none;
+    text-align: center;
+}
+#contact-me button{
+    background-color: #FFF5E0;
+    border-color: #141E46;
+    color: #141E46;
+}
+#footer{
+    background-color: #8DECB4;
+}
